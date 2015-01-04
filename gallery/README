@@ -1,0 +1,5 @@
+provide two parameters to the shellscript:
+1) the absolute path to the folder containing JPEG files
+2) the title of the gallery
+
+if there are spaces in the path, those MUST be escaped by writing by using a backslash before each space ("\ "). Using quotations marks will not work. 
